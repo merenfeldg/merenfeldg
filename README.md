@@ -1,9 +1,6 @@
-### Hi there 👋
-
+### Eai rapaziada 👋
+Oi, meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Computação, conheci programação vendo os vídeos do Gustavo Guanabara e me apaixonei por tecnologia! No meu tempo livre gosto de malhar e jogar um valorant com os meus amigos. Estou sempre aberto a novos desafios e oportunidades de aprendizado.  
 <!--
-**merenfeldg/merenfeldg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
