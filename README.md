@@ -7,7 +7,7 @@ Oi, meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Comput
 
 <div>
 <a href="https://github.com/merenfeldg">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merenfeldg&layout=compact&langs_count=7&theme=nord"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merenfeldg&layout=compact&langs_count=7&theme=nord"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merenfeldg&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
