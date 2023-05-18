@@ -11,6 +11,7 @@ Meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Computaç�
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=merenfeldg&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
+<p>Entre em contato comigo:<p>
 <a href="https://www.linkedin.com/in/gabrielmerenfeld/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-434C5E?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
