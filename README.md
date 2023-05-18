@@ -1,10 +1,9 @@
 ### Eai rapaziada 👋
-Oi, meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Computação. Conheci programação vendo os vídeos do Gustavo Guanabara sobre HTML/CSS e me apaixonei pela área! No meu tempo livre gosto de malhar e jogar um valorant com os meus amigos. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
+Meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Computação. Conheci programação vendo os vídeos do Gustavo Guanabara sobre HTML/CSS e me apaixonei pela área! No meu tempo livre gosto de malhar e jogar um valorant com os meus amigos. Estou sempre aberto a novos desafios e oportunidades de aprendizado.
 
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Java](https://img.shields.io/badge/-Java-434C5E?style=flat&logo=java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-434C5E?style=flat&logo=springboot)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-434C5E?style=flat&logo=postgresql)&nbsp;
 
 <div>
 <a href="https://github.com/merenfeldg">
@@ -13,8 +12,5 @@ Oi, meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Comput
 </div>
 <hr>
 <a href="https://www.linkedin.com/in/gabrielmerenfeld/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/_itsmerenfeld/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-434C5E?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
