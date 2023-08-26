@@ -6,6 +6,7 @@ Meu nome é Gabriel Merenfeld e atualmente estou cursando Ciência da Computaç�
 ![SpringDataJpa](https://img.shields.io/badge/-SpringDataJPA-434C5E?&logoColor=fff&logo=springdatajpa)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-434C5E?&logoColor=fff&logo=postgresql)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-434C5E?&logoColor=fff&logo=hibernate)
+![JUnit5](https://img.shields.io/badge/-JUnit5-434C5E?&logoColor=fff&logo=junit5)
 ![Git](https://img.shields.io/badge/-Git-434C5E?&logoColor=fff&logo=git)
 
 <div>
