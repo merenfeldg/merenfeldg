@@ -1,5 +1,5 @@
 ### hi 👋
-My name is Gabriel and I'm studying Computer Science (4th period)
+My name is Gabriel Merenfeld and I'm studying Computer Science (4th period)
 
 ![Java](https://img.shields.io/badge/-Java-434C5E?&logoColor=fff&logo=openjdk)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-434C5E?&logoColor=fff&logo=spring)
