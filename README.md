@@ -3,9 +3,7 @@ My name is Gabriel Merenfeld and I'm studying Computer Science (4th period)
 
 ![Java](https://img.shields.io/badge/-Java-434C5E?&logoColor=fff&logo=openjdk)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-434C5E?&logoColor=fff&logo=spring)
-![SpringDataJpa](https://img.shields.io/badge/-SpringDataJPA-434C5E?&logoColor=fff&logo=springdatajpa)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-434C5E?&logoColor=fff&logo=postgresql)&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-434C5E?&logoColor=fff&logo=hibernate)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-434C5E?&logoColor=fff&logo=junit5)
 ![Git](https://img.shields.io/badge/-Git-434C5E?&logoColor=fff&logo=git)
 
