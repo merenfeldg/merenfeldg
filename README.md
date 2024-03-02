@@ -1,5 +1,5 @@
 ### hi 👋
-My name is Gabriel Merenfeld and I'm studying Computer Science (4th period)
+My name is Gabriel Merenfeld and I'm studying Computer Science (5th period)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -14,5 +14,3 @@ My name is Gabriel Merenfeld and I'm studying Computer Science (4th period)
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=merenfeldg&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
 
-##
-![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
