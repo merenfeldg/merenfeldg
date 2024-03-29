@@ -15,3 +15,7 @@ My name is Gabriel Merenfeld and I'm studying Computer Science (5th period)
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merenfeldg&layout=compact&langs_count=7&theme=nord"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=merenfeldg&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="850">
