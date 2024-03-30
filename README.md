@@ -1,5 +1,12 @@
-### hi 👋
-My name is Gabriel Merenfeld and I'm studying Computer Science (5th period)
+<h2 align="left">hi 👋</h2>
+
+- I'm based in Rio de Janeiro
+
+- Computer Science student (5th period), working in a research laboratory, developing projects as mobile developer
+
+- I’m currently learning Flutter
+
+<hr>
 
 ![Android](https://img.shields.io/badge/Android-25A162?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
