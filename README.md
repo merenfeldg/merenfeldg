@@ -12,7 +12,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-25A162.svg?style=for-the-badge&logo=Android-Studio&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-1D1D1D.svg?style=for-the-badge&logo=Rive&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 <div>
