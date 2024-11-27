@@ -2,7 +2,7 @@
 
 - I'm based in Rio de Janeiro
 
-- Computer Science student (5th period), working in a research laboratory, developing projects as mobile developer
+- Computer Science student (7th period), working in a research laboratory, developing projects as mobile developer
 
 - I’m currently learning Flutter
 
